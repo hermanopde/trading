@@ -1,0 +1,27 @@
+python -m venv venv
+venv\Scripts\activate
+
+deactivate
+
+#JUPYTER NOTEBOOK:
+pip install wheel
+pip install jupyter
+pip install jupyterthemes
+
+pip install pandas
+pip install requests
+pip install plotly
+
+jupyther theme and settings: jt -t onedork -f roboto -cellw 95%
+
+start jupyter notebook : jupyter notebook
+
+
+
+
+
+
+
+
+
+
